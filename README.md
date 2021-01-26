@@ -2,7 +2,7 @@
 <img src = "https://github.com/AnindKiran/Object-Recognition-Using-CNNs/blob/master/cifar-10.png" width = "15%" height = "15%">
 </div>
 
-# Object-Recognition-Using-CNNs
+# Object Recognition Using CNNs
 
 #### Project 1 in a series of small projects designed to practice practical Machine Learning. 
 
