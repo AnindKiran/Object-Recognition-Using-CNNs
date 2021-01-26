@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "https://github.com/AnindKiran/Object-Recognition-Using-CNNs/blob/master/cifar-10.png" width = "5%" height = "5%">
+<img src = "https://github.com/AnindKiran/Object-Recognition-Using-CNNs/blob/master/cifar-10.png" width = "15%" height = "15%">
 </div>
 
 # Object-Recognition-Using-CNNs
